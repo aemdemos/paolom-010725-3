@@ -1,0 +1,26 @@
+{
+  "originUrl": "https://correct-oyster.10web.cloud",
+  "lastCrawled": "https://correct-oyster.10web.cloud/",
+  "urls": [
+    {
+      "url": "https://correct-oyster.10web.cloud/",
+      "source": "SITEMAPS",
+      "targetPath": "/",
+      "id": "2fa85b7bcab68b27b729c17779e743d7c5531ba9"
+    }
+  ],
+  "crawlOptions": {
+    "timeout": 64800000,
+    "inclusionPatterns": [],
+    "exclusionPatterns": [],
+    "limit": -1,
+    "sameDomain": true,
+    "keepHash": false,
+    "strategy": "sitemaps",
+    "logger": {},
+    "strategiesAttempted": [
+      "SITEMAPS"
+    ]
+  },
+  "extractionErrors": []
+}
