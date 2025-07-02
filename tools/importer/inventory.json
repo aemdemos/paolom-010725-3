@@ -1,0 +1,179 @@
+{
+  "fragments": [
+    {
+      "name": "nav",
+      "path": "/nav",
+      "instances": [
+        {
+          "url": "https://correct-oyster.10web.cloud/",
+          "urlHash": "2fa85b7bcab68b27b729c17779e743d7c5531ba9",
+          "uuid": "2fa85b7b-00-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "footer",
+      "path": "/footer",
+      "instances": [
+        {
+          "url": "https://correct-oyster.10web.cloud/",
+          "urlHash": "2fa85b7bcab68b27b729c17779e743d7c5531ba9",
+          "uuid": "2fa85b7b-16-e0a31b59d595efb082791efca9ca6ea9cdcd301e",
+          "xpath": "/html[1]/body[1]/div[2]/div[7]"
+        }
+      ]
+    }
+  ],
+  "blocks": [
+    {
+      "name": "Table (striped & bordered)",
+      "cluster": 1,
+      "source": "Table (striped, bordered)",
+      "target": "Table (striped, bordered)",
+      "key": "tableStripedBordered1",
+      "instances": [
+        {
+          "url": "https://correct-oyster.10web.cloud/",
+          "urlHash": "2fa85b7bcab68b27b729c17779e743d7c5531ba9",
+          "uuid": "2fa85b7b-02-74baca0e8f437780d98bd362ee1e75dcaf7efdb7",
+          "xpath": "/html[1]/body[1]/div[2]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 2,
+      "source": "Cards",
+      "target": "Cards (cards2)",
+      "key": "cards2",
+      "instances": [
+        {
+          "url": "https://correct-oyster.10web.cloud/",
+          "urlHash": "2fa85b7bcab68b27b729c17779e743d7c5531ba9",
+          "uuid": "2fa85b7b-05-3aead47eef0999e6005a469f2c2cc6c727c6b086",
+          "xpath": "/html[1]/body[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[3]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 3,
+      "source": "Columns",
+      "target": "Columns",
+      "key": "columns3",
+      "instances": [
+        {
+          "url": "https://correct-oyster.10web.cloud/",
+          "urlHash": "2fa85b7bcab68b27b729c17779e743d7c5531ba9",
+          "uuid": "2fa85b7b-08-158f2fb91d5bf2dfceab83b028b64f1dcf0a699c",
+          "xpath": "/html[1]/body[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[3]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 4,
+      "source": "Cards",
+      "target": "Cards (cards4)",
+      "key": "cards4",
+      "instances": [
+        {
+          "url": "https://correct-oyster.10web.cloud/",
+          "urlHash": "2fa85b7bcab68b27b729c17779e743d7c5531ba9",
+          "uuid": "2fa85b7b-11-60bd3cc391a324a7556a23382034e880ea2d2ce3",
+          "xpath": "/html[1]/body[1]/div[2]/div[5]/div[1]/div[1]/div[1]/div[3]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 5,
+      "source": "Cards",
+      "target": "Cards (cards5)",
+      "key": "cards5",
+      "instances": [
+        {
+          "url": "https://correct-oyster.10web.cloud/",
+          "urlHash": "2fa85b7bcab68b27b729c17779e743d7c5531ba9",
+          "uuid": "2fa85b7b-14-65860129becfd81b5177d173dadc25f97805c51e",
+          "xpath": "/html[1]/body[1]/div[2]/div[5]/div[1]/div[2]/div[1]/div[3]"
+        }
+      ]
+    }
+  ],
+  "outliers": [
+    {
+      "url": "https://correct-oyster.10web.cloud/",
+      "urlHash": "2fa85b7bcab68b27b729c17779e743d7c5531ba9",
+      "uuid": "2fa85b7b-00-6e70765a003047818ea5700b557b8d01b43078df",
+      "xpath": "/html[1]/body[1]/div[1]"
+    },
+    {
+      "url": "https://correct-oyster.10web.cloud/",
+      "urlHash": "2fa85b7bcab68b27b729c17779e743d7c5531ba9",
+      "uuid": "2fa85b7b-01-0f42d7700d68d4e582a02ec271e92da66a38fae3",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]"
+    },
+    {
+      "url": "https://correct-oyster.10web.cloud/",
+      "urlHash": "2fa85b7bcab68b27b729c17779e743d7c5531ba9",
+      "uuid": "2fa85b7b-03-d76785946ea6e2b9207aa52263cba8862283f7f9",
+      "xpath": "/html[1]/body[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://correct-oyster.10web.cloud/",
+      "urlHash": "2fa85b7bcab68b27b729c17779e743d7c5531ba9",
+      "uuid": "2fa85b7b-04-2c42ae437374c14853925a2c2ff3c42e8f8cbebb",
+      "xpath": "/html[1]/body[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://correct-oyster.10web.cloud/",
+      "urlHash": "2fa85b7bcab68b27b729c17779e743d7c5531ba9",
+      "uuid": "2fa85b7b-06-12c3e07a6ea012221991138af26d43bfce17be59",
+      "xpath": "/html[1]/body[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://correct-oyster.10web.cloud/",
+      "urlHash": "2fa85b7bcab68b27b729c17779e743d7c5531ba9",
+      "uuid": "2fa85b7b-07-db7b1e87c87324bc7ccdc3f9686b5f90f67f8d58",
+      "xpath": "/html[1]/body[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://correct-oyster.10web.cloud/",
+      "urlHash": "2fa85b7bcab68b27b729c17779e743d7c5531ba9",
+      "uuid": "2fa85b7b-09-8877ebb771bdf2f3a72e390fcfc6afa450d59924",
+      "xpath": "/html[1]/body[1]/div[2]/div[5]/div[1]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://correct-oyster.10web.cloud/",
+      "urlHash": "2fa85b7bcab68b27b729c17779e743d7c5531ba9",
+      "uuid": "2fa85b7b-10-eb705da6a3e8e25606060fd2b796fe67f6f65714",
+      "xpath": "/html[1]/body[1]/div[2]/div[5]/div[1]/div[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://correct-oyster.10web.cloud/",
+      "urlHash": "2fa85b7bcab68b27b729c17779e743d7c5531ba9",
+      "uuid": "2fa85b7b-12-083cfc25963d92868de8a2d187e03c1af2fdc80b",
+      "xpath": "/html[1]/body[1]/div[2]/div[5]/div[1]/div[2]/div[1]/div[1]"
+    },
+    {
+      "url": "https://correct-oyster.10web.cloud/",
+      "urlHash": "2fa85b7bcab68b27b729c17779e743d7c5531ba9",
+      "uuid": "2fa85b7b-13-218569febff23e6970b8617fe4cf07f6c7c5ced7",
+      "xpath": "/html[1]/body[1]/div[2]/div[5]/div[1]/div[2]/div[1]/div[2]"
+    },
+    {
+      "url": "https://correct-oyster.10web.cloud/",
+      "urlHash": "2fa85b7bcab68b27b729c17779e743d7c5531ba9",
+      "uuid": "2fa85b7b-15-81a41467038355f3bb25cf7e73bad3d1186b5b74",
+      "xpath": "/html[1]/body[1]/div[2]/div[6]"
+    },
+    {
+      "url": "https://correct-oyster.10web.cloud/",
+      "urlHash": "2fa85b7bcab68b27b729c17779e743d7c5531ba9",
+      "uuid": "2fa85b7b-16-e0a31b59d595efb082791efca9ca6ea9cdcd301e",
+      "xpath": "/html[1]/body[1]/div[2]/div[7]"
+    }
+  ]
+}
